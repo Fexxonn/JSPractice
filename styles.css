@@ -14,7 +14,7 @@ body {
 }
 .nav-left {
     background: linear-gradient(-90deg, hsl(0, 0%, 0%), rgba(0, 6, 59, 0.473) 100%);
-    box-shadow: 0 1pc 1pc red;
+    box-shadow: 0 1pc 1pc blue;
     width: 15pc;
     height: 10pc;
     padding: 2pc 1.5pc;
