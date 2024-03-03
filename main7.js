@@ -33,8 +33,8 @@ for (let i = 0; i < miArray.length; i++) {
   //miArray.length nos permite acceder al array
   console.log(miArray[i]); //miArray[i] lee todos los elementos de array
 }
-  
-0,1,2|3
+
+0, 1, 2 | 3;
 
 miArray.forEach((elemento) => {
   console.log(elemento);

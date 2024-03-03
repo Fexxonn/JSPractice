@@ -1,8 +1,7 @@
-const nombres = ['Juan', 'Pedro', 'Maria', 'Roman', 'Filomeno'];
+const nombres = ["Juan", "Pedro", "Maria", "Roman", "Filomeno"];
 
 let personas = 389;
 
 if (personas === 389) {
-    console.log(nombres[0])
+  console.log(nombres[0]);
 }
-
