@@ -1,6 +1,5 @@
 let altura = 5;
 
-
 for (let i = 0; i < altura; i++) {
     let piso = "";
     for (let j = 1; j < altura-i; j++) {
